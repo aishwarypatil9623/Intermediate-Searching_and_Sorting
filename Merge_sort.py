@@ -33,3 +33,8 @@ arr = [int(num) for num in arr.split()]
 sorted_arr = merge_sort(arr)
 
 print("Sorted array:", sorted_arr)
+
+'''OUTPUT
+Enter a list of numbers separated by spaces: 3 6 1 8 2 9
+Sorted array: [1, 2, 3, 6, 8, 9]
+'''
