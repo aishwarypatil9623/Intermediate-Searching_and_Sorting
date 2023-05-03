@@ -16,3 +16,8 @@ arr = [int(num) for num in arr.split()]
 sorted_arr = insertion_sort(arr)                                        # Sort the array using insertion sort
 
 print("Sorted array:", sorted_arr)                                      # Print the sorted array
+
+'''
+Enter a list of numbers separated by spaces: 5 3 8 4 2 7 1 6
+Sorted array: [1, 2, 3, 4, 5, 6, 7, 8]
+'''
