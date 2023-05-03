@@ -23,3 +23,7 @@ if result == -1:                                                        # If the
     print("Element not found")
 else:                                                                   # If the element is found, print its index
     print(f"Element found at index {result}")
+
+'''OUTPUT
+Element found at index 2
+'''
