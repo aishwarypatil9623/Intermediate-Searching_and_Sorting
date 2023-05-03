@@ -37,3 +37,8 @@ arr = [int(num) for num in arr.split()]
 sorted_arr = radix_sort(arr)
 
 print("Sorted array:", sorted_arr)
+
+'''
+Enter a list of numbers separated by spaces: 170 45 75 90 802 24 2 66
+Sorted array: [2, 24, 45, 66, 75, 90, 170, 802]
+'''
