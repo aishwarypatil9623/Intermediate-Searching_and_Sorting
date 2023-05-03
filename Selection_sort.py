@@ -17,3 +17,8 @@ arr = [int(num) for num in arr.split()]
 sorted_arr = selection_sort(arr)                                        # Sort the array using selection sort
 
 print("Sorted array:", sorted_arr)                                      # Print the sorted array
+
+'''OUTPUT
+Enter a list of numbers separated by spaces: 3 1 4 1 5 9 2 6 5 3
+Sorted array: [1, 1, 2, 3, 3, 4, 5, 5, 6, 9]
+'''
