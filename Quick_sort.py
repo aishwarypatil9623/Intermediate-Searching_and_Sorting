@@ -23,3 +23,11 @@ arr = [int(num) for num in arr.split()]
 sorted_arr = quick_sort(arr)                                           # Sort the array using quick sort
 
 print("Sorted array:", sorted_arr)                                      # Print the sorted array
+
+'''OUTPUT:
+Enter a list of numbers separated by spaces:5 2 9 1 5 6
+Sorted array: [1, 2, 5, 5, 6, 9]
+'''
+
+
+
